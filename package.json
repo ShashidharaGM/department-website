@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://ShashidharaGM.github.io/department-website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,7 +16,8 @@
     "react-toastify": "^10.0.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^4.0.0"
+    "@vitejs/plugin-react": "^4.0.0",
+    "gh-pages": "^6.3.0",
+    "vite": "^5.0.0"
   }
 }
