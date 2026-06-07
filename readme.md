@@ -2,11 +2,11 @@
 
 ## 🌐 Live Demo
 
-👉 https://YOUR_USERNAME.github.io/department-website/
+👉 https://ShashidharaGM.github.io/department-website/
 
 ## 📂 GitHub Repository
 
-👉 https://github.com/YOUR_USERNAME/department-website
+👉 https://github.com/ShashidharaGM/department-website
 
 ---
 
